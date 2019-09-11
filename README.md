@@ -16,7 +16,6 @@ mobilenet_yolov3.bin <br/>
 mobilenet_yolov3.param <br/>
 MobiYO.cpb <br/>
 MobiYO.cpp <br/>
-MobiYO.depend <br/>
 README.md <br/>
  <br/>
 Run MobiYO.cpb with Code::Blocks <br/>
