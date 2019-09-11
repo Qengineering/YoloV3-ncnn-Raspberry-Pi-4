@@ -2,24 +2,24 @@
 MobileNetV2_YOLOV3 for the ncnn framework
 
 See https://qengineering.eu/opencv-c-examples-on-raspberry-pi.html for the Raspberry Pi implementation of this network <br/><br/>
-To extract and run in Code::Blocks <br/>  <br/>
-$ mkdir software/DeepLearning/MobiYO <br/>
-$ cd software/DeepLearning/MobiYO <br/>
+To extract and run the network in Code::Blocks <br/>  <br/>
+$ mkdir *MyDir* <br/>
+$ cd *MyDir* <br/>
 $ wget https://github.com/Qengineering/MobileNetV2_YOLOV3_ncnn/archive/master.zip <br/>
 $ unzip -j master.zip <br/>
+Remove master.zip and README.md as they are no longer needed. <br/>
+$ rm master.zip <br/>
+$ rm README.md <br/>
  <br/>
-Your /home/pi/software/DeepLearning/MobiYO/ folder must now look like this <br/>
+Your *MyDir* folder must now look like this <br/>
  <br/>
 dog.jpg <br/>
-master.zip <br/>
 mobilenet_yolov3.bin <br/>
 mobilenet_yolov3.param <br/>
 MobiYO.cpb <br/>
 MobiYO.cpp <br/>
-README.md <br/>
  <br/>
 Run MobiYO.cpb with Code::Blocks <br/>
-You may delete master.zip as it is not needed any more.  <br/>
 Remember, you need also have a working OpenCV 4 on your Raspberry.  <br/>
-
+ <br/>
 
