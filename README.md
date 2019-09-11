@@ -24,4 +24,5 @@ MobiYO.cpp <br/>
 Run MobiYO.cpb with Code::Blocks <br/>
 Remember, you need also have a working OpenCV 4 on your Raspberry.  <br/>
  <br/>
+![output image]( https://qengineering.eu/images/outcome.png )
 
