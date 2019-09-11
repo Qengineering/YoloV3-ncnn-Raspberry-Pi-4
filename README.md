@@ -7,7 +7,9 @@ $ mkdir *MyDir* <br/>
 $ cd *MyDir* <br/>
 $ wget https://github.com/Qengineering/MobileNetV2_YOLOV3_ncnn/archive/master.zip <br/>
 $ unzip -j master.zip <br/>
+ <br/>
 Remove master.zip and README.md as they are no longer needed. <br/>
+ <br/>
 $ rm master.zip <br/>
 $ rm README.md <br/>
  <br/>
