@@ -8,13 +8,11 @@ Size: 352x352 <br/>
 Special made for a bare Raspberry Pi see: https://qengineering.eu/opencv-c-examples-on-raspberry-pi.html <br/>
 <br/>
 To extract and run the network in Code::Blocks <br/>
-<br/>
 $ mkdir *MyDir* <br/>
 $ cd *MyDir* <br/>
 $ wget https://github.com/Qengineering/MobileNetV2_YOLOV3_ncnn/archive/master.zip <br/>
 $ unzip -j master.zip <br/>
-<br/>
-Remove master.zip and README.md as they are no longer needed. <br/> <br/>
+Remove master.zip and README.md as they are no longer needed. <br/> 
 $ rm master.zip <br/>
 $ rm README.md <br/> <br/>
 Your *MyDir* folder must now look like this <br/> <br/>
