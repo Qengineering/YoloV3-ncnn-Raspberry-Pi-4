@@ -22,8 +22,7 @@ mobilenet_yolov3.param <br/>
 MobiYO.cpb <br/>
 MobiYO.cpp <br/>
  <br/>
-Run MobiYO.cpb with Code::Blocks <br/>
-Remember, you also need a working OpenCV 4 on your Raspberry. <br/>
+Run MobiYO.cpb with Code::Blocks. Remember, you also need a working OpenCV 4 on your Raspberry. <br/>
 
 ![output image]( https://qengineering.eu/images/outcome.png )
 
