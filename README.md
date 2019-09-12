@@ -1,8 +1,16 @@
-# MobileNetV2_YOLOV3_ncnn
-MobileNetV2_YOLOV3 for the ncnn framework
-
-See https://qengineering.eu/opencv-c-examples-on-raspberry-pi.html for the Raspberry Pi implementation of this network <br/><br/>
-To extract and run the network in Code::Blocks <br/>  <br/>
+# MobileNetV2_YOLOV3_ncnn <br/>
+## MobileNetV2_YOLOV3 for the ncnn framework <br/>
+<br/>
+Papers <br/>
+https://ai.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html <br/>
+https://arxiv.org/pdf/1506.02640.pdf <br/>
+Training set: VOC2007 <br/>
+Size: 352x352 <br/>
+<br/>
+Special made for a bare Rapsberry see: https://qengineering.eu/opencv-c-examples-on-raspberry-pi.html <br/>
+<br/>
+To extract and run the network in Code::Blocks <br/>
+<br/>
 $ mkdir *MyDir* <br/>
 $ cd *MyDir* <br/>
 $ wget https://github.com/Qengineering/MobileNetV2_YOLOV3_ncnn/archive/master.zip <br/>
