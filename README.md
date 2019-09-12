@@ -5,7 +5,7 @@ https://arxiv.org/pdf/1506.02640.pdf <br/>
 Training set: VOC2007 <br/>
 Size: 352x352 <br/>
 <br/>
-Special made for a bare Rapsberry see: https://qengineering.eu/opencv-c-examples-on-raspberry-pi.html <br/>
+Special made for a bare Raspberry see: https://qengineering.eu/opencv-c-examples-on-raspberry-pi.html <br/>
 <br/>
 To extract and run the network in Code::Blocks <br/>
 <br/>
