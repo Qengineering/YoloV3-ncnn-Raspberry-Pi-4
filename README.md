@@ -15,7 +15,7 @@ $ unzip -j master.zip <br/>
 Remove master.zip and README.md as they are no longer needed. <br/> 
 $ rm master.zip <br/>
 $ rm README.md <br/> <br/>
-Your *MyDir* folder must now look like this <br/> <br/>
+Your *MyDir* folder must now look like this: <br/> 
 dog.jpg <br/>
 mobilenet_yolov3.bin <br/>
 mobilenet_yolov3.param <br/>
