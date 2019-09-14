@@ -4,6 +4,7 @@ https://ai.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html <br/>
 https://arxiv.org/pdf/1506.02640.pdf <br/>
 Training set: VOC2007 <br/>
 Size: 352x352 <br/>
+Prediction time: 335 mSec (RPi 4) <br/>
 <br/>
 Special made for a bare Raspberry Pi see: https://qengineering.eu/opencv-c-examples-on-raspberry-pi.html <br/>
 <br/>
