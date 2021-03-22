@@ -1,4 +1,5 @@
 # MobileNetV2_YOLOV3 for the ncnn framework
+![output image]( https://qengineering.eu/images/outcome.png )<br/>
 Papers <br/>
 https://ai.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html <br/>
 https://arxiv.org/pdf/1506.02640.pdf <br/>
@@ -11,7 +12,7 @@ Special made for a bare Raspberry Pi see: https://qengineering.eu/opencv-c-examp
 To extract and run the network in Code::Blocks <br/>
 $ mkdir *MyDir* <br/>
 $ cd *MyDir* <br/>
-$ wget https://github.com/Qengineering/MobileNetV2_YOLOV3_ncnn/archive/master.zip <br/>
+$ wget https://github.com/Qengineering/MobileNetV2_YOLOV3_ncnn/archive/refs/heads/master.zip <br/>
 $ unzip -j master.zip <br/>
 Remove master.zip and README.md as they are no longer needed. <br/> 
 $ rm master.zip <br/>
@@ -23,7 +24,5 @@ mobilenet_yolov3.param <br/>
 MobiYO.cpb <br/>
 MobiYO.cpp <br/>
  <br/>
-Run MobiYO.cpb with Code::Blocks. Remember, you also need a working OpenCV 4 on your Raspberry. <br/>
-
-![output image]( https://qengineering.eu/images/outcome.png )
+Run MobiYO.cpb with Code::Blocks. Remember, you also need a working OpenCV 4 on your Raspberry.
 
