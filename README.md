@@ -53,8 +53,8 @@ mobilenetv2_yolov3.param <br/><br/>
 ------------
 
 ## Running the app.
-To run the application load the project file MobiYO.cbp in Code::Blocks.<br/> 
-Next, follow the instructions at [Hands-On](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html#HandsOn).<br/><br/>
+To run the application load the project file MobiYO.cbp in Code::Blocks. More info or<br/> 
+if you want to connect a camera to the app, follow the instructions at [Hands-On](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html#HandsOn).<br/><br/>
 Many thanks to [nihui](https://github.com/nihui/) again!<br/><br/>
 ![output image]( https://qengineering.eu/images/test_busV3.jpg )
 
