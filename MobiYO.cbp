@@ -38,6 +38,7 @@
 		</Compiler>
 		<Linker>
 			<Add option="-fopenmp" />
+			<Add option="-ldl" />
 			<Add option="`pkg-config --libs --cflags opencv4`" />
 			<Add library="/usr/local/lib/ncnn/libncnn.a" />
 		</Linker>
