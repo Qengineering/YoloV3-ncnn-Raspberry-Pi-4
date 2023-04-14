@@ -45,7 +45,8 @@ static int detect_yolov3(const cv::Mat& bgr, std::vector<Object>& objects)
     // https://github.com/eric612/MobileNet-YOLO/blob/master/models/yolov3/mobilenet_yolov3_lite_deploy.caffemodel
     yolov3.load_param("mobilenet_yolov3.param");
     yolov3.load_model("mobilenet_yolov3.bin");
-
+    yolov3.opt.num_threads=4;
+    
     const int target_size = 320;
 
     int img_w = bgr.cols;
